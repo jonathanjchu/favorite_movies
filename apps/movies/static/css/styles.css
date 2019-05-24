@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(233, 233, 227);
+}
+
+.error {
+    color: red;
+}
+
+.navbar-brand {
+    font: bold 24px "Segoe UI", arial, sans-serif;
+}
